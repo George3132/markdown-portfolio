@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+## Experience with the following _Programming Languages_ 
+
+* __SQL__
+* C Sharp
+* PowerShell 
